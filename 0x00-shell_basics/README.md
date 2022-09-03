@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete the file betty
+Delete the directory my first directory in tmp
