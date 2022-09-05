@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that sets the permission to the file hello Other users: all the permissions
+a script that sets the mode of the file hello to this
