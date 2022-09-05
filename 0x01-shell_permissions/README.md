@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that sets the mode of the file hello to this
+a script that sets the mode of the file hello the same as olleh mode
