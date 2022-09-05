@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a script that creates a directory called 
+a script that changes the group owner to school for the file hello
