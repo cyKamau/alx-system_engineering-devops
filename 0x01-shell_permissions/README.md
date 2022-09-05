@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that sets the mode of the file hello the same as olleh mode
+a script that adds execute permission to all subdirectories of the current directory
