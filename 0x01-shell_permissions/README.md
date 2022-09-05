@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that changes the owner to vincent and the group owner to staff
+cript that changes the owner and the group owner
