@@ -1,2 +1,2 @@
 #!/bin/bash
-a command that finds all empty files and directories  
+a script that lists all the files  
