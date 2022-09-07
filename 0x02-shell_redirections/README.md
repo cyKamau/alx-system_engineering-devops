@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a shell script that creates a file  
+a script that writes into the file  
