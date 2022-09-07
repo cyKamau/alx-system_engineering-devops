@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that creates a new global
+a script that prints the result of the addition of 128
