@@ -1,2 +1,2 @@
 #!/bin/bash
-Display lines containing the pattern  
+Display all the lines in the file  
