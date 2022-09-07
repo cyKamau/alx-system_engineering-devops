@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that displays all users  
+a command that finds all empty files and directories  
