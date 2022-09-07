@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that writes into the file named  
+a script that duplicates the last line  
